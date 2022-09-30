@@ -7,7 +7,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <a
 href="https://www.youtube.com/playlist?list=PL728TDRnbuNEA-59W7wWgCWEBLEOD6h*> <img
 
-src="https:/github.com/ShapeAl/PYTHON-AND-DATA-ANALYTICS/blob/mainYOUTUBE% 20THUMBNAIL-5.png"></a>
+src="https:/github.com/ShapeAl/PYTHON-AND-DATA-ANALYTICS/blob/mainYOUTUBE%20THUMBNAIL-5.png"></a>
 
 <br>l got to have hands on experience on:
 <li>Python
@@ -22,6 +22,7 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 hrefs
-"https://www.youtube.com/channel/UCTUVOLTIPdA">YouTube</a>
+"https://www.youtube.com/channel/UCTUVOLTIPdA">YouTu
+be</a>
 <li><a href
 "https://github.com/shapeal">GitHub></a>
