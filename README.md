@@ -22,4 +22,4 @@ href=
 "https://www.youtube.com/channel/UCTUVOLTIPdA">YouTu
 be</a>
 <li><a href
-"https://github.com/shapeal">GitHub></a>
+"https://github.com/shapeal">GitHub</a>
