@@ -18,7 +18,7 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 <li><a href=
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
-hrefs
+href=
 "https://www.youtube.com/channel/UCTUVOLTIPdA">YouTu
 be</a>
 <li><a href
